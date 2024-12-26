@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @r0ndev
 - 👀 I’m interested in web design and development
-- 🌱 I’m currently learning HTML, CSS and Javascript
-- Feel free to email me through rondev.co@gmail.com
+- 🌱 I’m currently learning HTML, CSS, and Javascript
+- rondev.co@gmail.com
